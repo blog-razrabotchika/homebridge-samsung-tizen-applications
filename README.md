@@ -1,7 +1,8 @@
 # homebridge-samsung-tizen-applications
 
-homebridge tizen-apps:
+I've found that there is no list of apps for the homebridge [samsung-tizen plugin](https://github.com/tavicu/homebridge-samsung-tizen), so I've created a small database of apps that people have been using recently on their samsung TV's. No more need to run homebridge tizen-apps comand again! If you have some app id that is not mentioned in list please create an issue.
 
+```json
 {
     "name": "Bedroom TV",
     "ip": "10.20.30.40",
@@ -10,6 +11,9 @@ homebridge tizen-apps:
         {"name": "Netflix", "type": "app", "value": "11101200001"}
     ]
 }
+```
+
+# List of homebridge tizen-apps:
 
 3201505002589 - MEGOGO ТВ и Кино
 
@@ -129,3 +133,26 @@ org.tizen.browser - Internet
 
 3201707014489 - YouTube TV
 
+3201606009684 - Spotify
+
+3201507004202 - ipla
+
+3201508004642 - Player.pl
+
+111399002250 - DS video
+
+3201704012124 - Smart Pack
+
+11091000000 - Facebook Watch
+
+3201706012478 - HBO GO
+
+3201703012079 - Eurosport Player
+
+3201607009918 - Onet VOD
+
+141299000100 - Filmbox Live
+
+3201702011871 - Eleven Sports
+
+3201505002690 - CHILI
