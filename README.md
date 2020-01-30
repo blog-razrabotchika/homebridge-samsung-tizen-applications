@@ -2,6 +2,15 @@
 
 homebridge tizen-apps:
 
+{
+    "name": "Bedroom TV",
+    "ip": "10.20.30.40",
+    "mac": "A0:B1:C2:D3:E4:F5",
+    "inputs": [
+        {"name": "Netflix", "type": "app", "value": "11101200001"}
+    ]
+}
+
 3201505002589 - MEGOGO ТВ и Кино
 
 111299001912 - YouTube
