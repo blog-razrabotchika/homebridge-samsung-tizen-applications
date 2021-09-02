@@ -156,3 +156,17 @@ org.tizen.browser - Internet
 3201702011871 - Eleven Sports
 
 3201505002690 - CHILI
+
+3201710014874 - Amazon Music
+
+111399000085 - WeatherNation
+
+3201605009379 - Canal Digital
+
+3201901017732 - DRTV
+
+11111300404 - Viaplay
+
+111299002125 - HBO Nordic
+
+3201702011851 - Steam Link
