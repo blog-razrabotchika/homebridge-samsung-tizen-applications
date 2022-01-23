@@ -19,9 +19,13 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201907018807 - org.tizen.netflixapp - Netflix (11101200001)
 
+evKhCgZelL.AmazonIgnitionLauncher2 - org.tizen.ignition - AmazonIgnitionLauncher
+
 111299001912 - 9Ur5IzDKqV.TizenYouTube - YouTube
 
-3201512006963 - Plex
+3201909019211 - com.samsung.tv.samsunghealth - Samsung Health
+
+3201512006963 - kIciSQlYEM.plex - Plex
 
 3201506002941 - Okko Фильмы HD
 
@@ -41,7 +45,23 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201805016309 - Клуб Samsung
 
-11091000000 - Facebook Watch
+QBA3qXl8rv.Kick - Kick
+
+DJ8grEH6Hu.arte - arte
+
+guMmq95nKK.CanalPlusLauncher - CanalPlusLauncher
+
+JtPoChZbf4.Vimeo - Vimeo
+
+hIWwRyZjcD.GameFlyStreaming - GameFlyStreaming
+
+sHi2hDJGmf.nolim - nolim
+
+4ovn894vo9.Facebook - Facebook
+
+QizQxC7CUf.PlayMovies - PlayMovies
+
+vbUQClczfR.Wuakitv - Wuakitv
 
 121299000089 - ITV Hub
 
@@ -103,7 +123,15 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201611011005 - AntenaPlay.ro
 
-3201611011210 - Molotov TV
+3201611011210 - bstjKvX6LM.molotov - Molotov TV
+
+RffagId0eC.SfrSport - SfrSport
+
+phm0eEdRZ4.ExtraTweetIM2 - ExtraTweetIM2
+
+VAarU8iUtx.samsungTizen - Vevo
+
+g0ScrkpO1l.SmartIPTV - SmartIPTV
 
 3201603008210 - MLB
 
@@ -113,9 +141,11 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 111399002220 - SiriusXM
 
-3201807016597 - com.samsung.tv.ariavideo - Apple TV
+3201807016597 - com.samsung.tv.ariavideo  - Apple TV (com.samsung.tv.aria-dummy)
 
 3201908019041 - org.tizen.apple.applemusic - Apple Music
+
+NRi6kdBYJ0.AirPlayWebApp - Apple AirPlay    
 
 3202009021877 - J9fZJDMi1v.SecurityCenter - Security Center
 
@@ -151,7 +181,7 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201710014956 - Watch TNT
 
-121299000612 - My5
+121299000612 - EkzyZtmneG.My5 - My5
 
 111399002034 - RaiPlay
 
@@ -159,9 +189,25 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201806016390 - DAZN
 
+yFo6bAK50v.Dennexpres - Dennexpres
+
+gdEZI5lLXr.Europa2FHD - Europa2FHD
+
 3201806016381 - hayu
 
-3201504001965 - Tubi Free Movies ＆ TV
+bm9PqdAwjv.TvSme - TvSme
+
+dH3Ztod7bU.IDNES - IDNES
+
+wsFJCxteqc.OnetVodEden - OnetVodEden
+
+rZyaXW5csM.TubaFM - TubaFM
+
+4bjaTLNMia.curzon - curzon
+
+RVvpJ8SIU6.ocs - ocs
+
+3201504001965 - 3KA0pm7a7V.TubiTV - Tubi Free Movies ＆ TV
 
 3201909019175 - BritBox
 
@@ -211,13 +257,15 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201508004642 - Player.pl
 
+ABor2M9vjb.acc - AccuWeather
+
 111399002250 - DS video
 
 3201704012124 - Smart Pack
 
 11091000000 - Facebook Watch
 
-3201706012478 - HBO GO
+3201706012478 - gDhibXvFya.HBOGO - HBO GO
 
 111299002125 - HBO Nordic
 
@@ -229,9 +277,9 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201607009918 - Onet VOD
 
-141299000100 - Filmbox Live
+141299000100 - ASUvdWVqRb.FilmBoxLive - Filmbox Live
 
-3201702011871 - Eleven Sports
+3201702011871 - EmCpcvhukH.ElevenSports - Eleven Sports
 
 3201906018693 - Focus Sat
 
@@ -239,9 +287,11 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201710014866 - Orange TV Go
 
+Ahw07WXIjx.Dailymotion - Dailymotion
+
 3201506003486 - CTV
 
-121299000101 - TuneIn
+121299000101 - tisT7SVUug.tunein - TuneIn
 
 3201602007865 - BBC News
 
@@ -249,7 +299,9 @@ I've found that there is no list of apps for the homebridge [samsung-tizen plugi
 
 3201601007670 - BBC iPlayer
 
-3201608010191 - Deezer
+xqqJ00GGlC.okidoki - okidoki
+
+3201608010191 - cexr1qp97S.Deezer - Deezer
 
 3201711015226 - Radio UK
 
